@@ -15,7 +15,7 @@
     "@openstatus/tinybird": "workspace:*",
     "@openstatus/upstash": "workspace:*",
     "@unkey/api": "0.10.0",
-    "hono": "3.7.3",
+    "hono": "3.11.7",
     "zod": "3.22.2"
   },
   "devDependencies": {
