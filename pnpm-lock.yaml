@@ -80,7 +80,7 @@ importers:
     dependencies:
       '@hono/zod-openapi':
         specifier: 0.7.1
-        version: 0.7.1(hono@3.7.3)(zod@3.22.2)
+        version: 0.7.1(hono@3.11.7)(zod@3.22.2)
       '@openstatus/db':
         specifier: workspace:*
         version: link:../../packages/db
@@ -97,8 +97,8 @@ importers:
         specifier: 0.10.0
         version: 0.10.0
       hono:
-        specifier: 3.7.3
-        version: 3.7.3
+        specifier: 3.11.7
+        version: 3.11.7
       zod:
         specifier: 3.22.2
         version: 3.22.2
@@ -2066,7 +2066,7 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@hono/zod-openapi@0.7.1(hono@3.7.3)(zod@3.22.2):
+  /@hono/zod-openapi@0.7.1(hono@3.11.7)(zod@3.22.2):
     resolution: {integrity: sha512-zs6AURALRF0A1gkuY5iKmRBT7d0JsLC3xVPDjBdRbJqNV3XQv4i2kprZTRAcI9AjjGApTsZbLZv1pZRCB2viwQ==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
@@ -2074,18 +2074,18 @@ packages:
       zod: 3.*
     dependencies:
       '@asteasolutions/zod-to-openapi': 5.5.0(zod@3.22.2)
-      '@hono/zod-validator': 0.1.9(hono@3.7.3)(zod@3.22.2)
-      hono: 3.7.3
+      '@hono/zod-validator': 0.1.9(hono@3.11.7)(zod@3.22.2)
+      hono: 3.11.7
       zod: 3.22.2
     dev: false
 
-  /@hono/zod-validator@0.1.9(hono@3.7.3)(zod@3.22.2):
+  /@hono/zod-validator@0.1.9(hono@3.11.7)(zod@3.22.2):
     resolution: {integrity: sha512-qEG5xagKzyif283ldCKzp+aF9Aebclg0sfrgyRQQNAizmXpicZ3UGduST/Jp+a9bjt3mI+VyEXMftb4rogLxQA==}
     peerDependencies:
       hono: 3.*
       zod: ^3.19.1
     dependencies:
-      hono: 3.7.3
+      hono: 3.11.7
       zod: 3.22.2
     dev: false
 
@@ -9118,8 +9118,8 @@ packages:
       react-is: 16.13.1
     dev: false
 
-  /hono@3.7.3:
-    resolution: {integrity: sha512-BQHdLPXb30hQ9k+04byeSi4QMHk20U1GUq0nT5kGUCGZtxeYhAS7mUJ1wgjn4SCvgiw1rcc6oBOAlwJQ7jQymA==}
+  /hono@3.11.7:
+    resolution: {integrity: sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==}
     engines: {node: '>=16.0.0'}
     dev: false
 
