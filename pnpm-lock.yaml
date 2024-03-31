@@ -80,7 +80,7 @@ importers:
     dependencies:
       '@hono/zod-openapi':
         specifier: 0.7.1
-        version: 0.7.1(hono@3.11.7)(zod@3.22.3)
+        version: 0.7.1(hono@3.11.7)(zod@3.22.4)
       '@openstatus/db':
         specifier: workspace:*
         version: link:../../packages/db
@@ -100,8 +100,8 @@ importers:
         specifier: 3.11.7
         version: 3.11.7
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -156,7 +156,7 @@ importers:
         version: 2.1.6
       '@t3-oss/env-nextjs':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       '@tailwindcss/typography':
         specifier: 0.5.10
         version: 0.5.10(tailwindcss@3.3.2)
@@ -278,8 +278,8 @@ importers:
         specifier: 1.0.7
         version: 1.0.7(tailwindcss@3.3.2)
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/eslint-config':
         specifier: workspace:*
@@ -301,10 +301,10 @@ importers:
         version: 18.2.8
       autoprefixer:
         specifier: 10.4.16
-        version: 10.4.16(postcss@8.4.31)
+        version: 10.4.16(postcss@8.4.32)
       postcss:
-        specifier: 8.4.31
-        version: 8.4.31
+        specifier: 8.4.32
+        version: 8.4.32
       rehype-autolink-headings:
         specifier: 6.1.1
         version: 6.1.1
@@ -331,10 +331,10 @@ importers:
         version: 1.3.0(@types/dlv@1.1.2)
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -365,7 +365,7 @@ importers:
         version: link:../plans
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       '@trpc/client':
         specifier: 10.38.5
         version: 10.38.5(@trpc/server@10.38.5)
@@ -382,8 +382,8 @@ importers:
         specifier: 1.13.3
         version: 1.13.3
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -436,7 +436,7 @@ importers:
         version: 0.3.4(bufferutil@4.0.7)(encoding@0.1.13)(utf-8-validate@6.0.3)
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       dotenv:
         specifier: 16.3.1
         version: 16.3.1
@@ -445,10 +445,10 @@ importers:
         version: 0.28.6(@libsql/client@0.3.4)
       drizzle-zod:
         specifier: 0.5.1
-        version: 0.5.1(drizzle-orm@0.28.6)(zod@3.22.3)
+        version: 0.5.1(drizzle-orm@0.28.6)(zod@3.22.4)
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -491,7 +491,7 @@ importers:
         version: 0.0.9
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       react-email:
         specifier: 1.9.5
         version: 1.9.5
@@ -499,8 +499,8 @@ importers:
         specifier: 1.1.0
         version: 1.1.0
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -525,7 +525,7 @@ importers:
         version: link:../../tinybird
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       react:
         specifier: 18.2.0
         version: 18.2.0
@@ -533,8 +533,8 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       zod:
-        specifier: ^3.22.3
-        version: 3.22.3
+        specifier: ^3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -574,13 +574,13 @@ importers:
         version: 0.0.7
       '@t3-oss/env-core':
         specifier: 0.6.1
-        version: 0.6.1(typescript@5.2.2)(zod@3.22.3)
+        version: 0.6.1(typescript@5.2.2)(zod@3.22.4)
       resend:
         specifier: 1.1.0
         version: 1.1.0
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -607,8 +607,8 @@ importers:
         specifier: workspace:*
         version: link:../db
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -623,8 +623,8 @@ importers:
         specifier: 0.2.2
         version: 0.2.2
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/tsconfig':
         specifier: workspace:*
@@ -728,8 +728,8 @@ importers:
         specifier: 1.14.0
         version: 1.14.0
       zod:
-        specifier: 3.22.3
-        version: 3.22.3
+        specifier: 3.22.4
+        version: 3.22.4
     devDependencies:
       '@openstatus/eslint-config':
         specifier: workspace:*
@@ -849,13 +849,13 @@ packages:
     resolution: {integrity: sha512-TD+xbmsBLyYy/IxFimW/YL/9L2IEnM7/EoV9Aeh56U64Ify8o27HJcKjo38XY9Tcn0uOq1AX3thkKgvtWvwFQg==}
     dev: false
 
-  /@asteasolutions/zod-to-openapi@5.5.0(zod@3.22.3):
+  /@asteasolutions/zod-to-openapi@5.5.0(zod@3.22.4):
     resolution: {integrity: sha512-d5HwrvM6dOKr3XdeF+DmashGvfEc+1oiEfbscugsiwSTrFtuMa7ETpW9sTNnVgn+hJaz+PRxPQUYD7q9/5dUig==}
     peerDependencies:
       zod: ^3.20.2
     dependencies:
       openapi3-ts: 4.1.2
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
   /@babel/code-frame@7.22.13:
@@ -1100,7 +1100,7 @@ packages:
   /@chronark/zod-bird@0.2.2:
     resolution: {integrity: sha512-0mmiiw4dny1aiEOmawsIJUaYW16vhWRuDGsDa62GfFhdD3F7hHrTi3lWNWYCVq2KsCS+CYwMj8nkdFuOnejCTA==}
     dependencies:
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
   /@clerk/backend@0.37.2(react@18.2.0):
@@ -1265,7 +1265,7 @@ packages:
       ts-pattern: 4.3.0
       unified: 10.1.2
       yaml: 2.3.2
-      zod: 3.22.3
+      zod: 3.22.4
     transitivePeerDependencies:
       - '@effect-ts/otel-node'
       - esbuild
@@ -2110,27 +2110,27 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@hono/zod-openapi@0.7.1(hono@3.11.7)(zod@3.22.3):
+  /@hono/zod-openapi@0.7.1(hono@3.11.7)(zod@3.22.4):
     resolution: {integrity: sha512-zs6AURALRF0A1gkuY5iKmRBT7d0JsLC3xVPDjBdRbJqNV3XQv4i2kprZTRAcI9AjjGApTsZbLZv1pZRCB2viwQ==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       hono: '*'
       zod: 3.*
     dependencies:
-      '@asteasolutions/zod-to-openapi': 5.5.0(zod@3.22.3)
-      '@hono/zod-validator': 0.1.9(hono@3.11.7)(zod@3.22.3)
+      '@asteasolutions/zod-to-openapi': 5.5.0(zod@3.22.4)
+      '@hono/zod-validator': 0.1.9(hono@3.11.7)(zod@3.22.4)
       hono: 3.11.7
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
-  /@hono/zod-validator@0.1.9(hono@3.11.7)(zod@3.22.3):
+  /@hono/zod-validator@0.1.9(hono@3.11.7)(zod@3.22.4):
     resolution: {integrity: sha512-qEG5xagKzyif283ldCKzp+aF9Aebclg0sfrgyRQQNAizmXpicZ3UGduST/Jp+a9bjt3mI+VyEXMftb4rogLxQA==}
     peerDependencies:
       hono: 3.*
       zod: ^3.19.1
     dependencies:
       hono: 3.11.7
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
   /@hookform/resolvers@3.3.1(react-hook-form@7.47.0):
@@ -5085,25 +5085,25 @@ packages:
     dependencies:
       tslib: 2.6.2
 
-  /@t3-oss/env-core@0.6.1(typescript@5.2.2)(zod@3.22.3):
+  /@t3-oss/env-core@0.6.1(typescript@5.2.2)(zod@3.22.4):
     resolution: {integrity: sha512-KQD7qEDJtkWIWWmTVjNvk0wnHpkvAQ6CRbUxbWMFNG/fiosBQDQvtRpBNu6USxBscJCoC4z6y7P9MN52/mLOzw==}
     peerDependencies:
       typescript: '>=4.7.2'
       zod: ^3.0.0
     dependencies:
       typescript: 5.2.2
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
-  /@t3-oss/env-nextjs@0.6.1(typescript@5.2.2)(zod@3.22.3):
+  /@t3-oss/env-nextjs@0.6.1(typescript@5.2.2)(zod@3.22.4):
     resolution: {integrity: sha512-z1dIC++Vxj9kmzX5nSPfcrCSkszy3dTEPC4Ssx7Ap5AqR3c2Qa7S0xf8axn6coy7D/vCXDAAnHYnCMDhtcY3SQ==}
     peerDependencies:
       typescript: '>=4.7.2'
       zod: ^3.0.0
     dependencies:
-      '@t3-oss/env-core': 0.6.1(typescript@5.2.2)(zod@3.22.3)
+      '@t3-oss/env-core': 0.6.1(typescript@5.2.2)(zod@3.22.4)
       typescript: 5.2.2
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
   /@tailwindcss/typography@0.5.10(tailwindcss@3.3.2):
@@ -6184,7 +6184,7 @@ packages:
       tslib: 2.6.2
     dev: false
 
-  /autoprefixer@10.4.16(postcss@8.4.31):
+  /autoprefixer@10.4.16(postcss@8.4.32):
     resolution: {integrity: sha512-7vd3UC6xKp0HLfua5IjZlcXvGAGy7cBAXTg2lyQ/8WpNhd6SiZ8Be+xm3FyBSYJx5GKcpRCzBh7RH4/0dnY+uQ==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
@@ -6196,7 +6196,7 @@ packages:
       fraction.js: 4.3.6
       normalize-range: 0.1.2
       picocolors: 1.0.0
-      postcss: 8.4.31
+      postcss: 8.4.32
       postcss-value-parser: 4.2.0
     dev: true
 
@@ -7557,7 +7557,7 @@ packages:
       hanji: 0.0.5
       json-diff: 0.9.0
       minimatch: 7.4.6
-      zod: 3.22.3
+      zod: 3.22.4
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -7627,14 +7627,14 @@ packages:
       '@libsql/client': 0.3.4(bufferutil@4.0.7)(encoding@0.1.13)(utf-8-validate@6.0.3)
     dev: false
 
-  /drizzle-zod@0.5.1(drizzle-orm@0.28.6)(zod@3.22.3):
+  /drizzle-zod@0.5.1(drizzle-orm@0.28.6)(zod@3.22.4):
     resolution: {integrity: sha512-C/8bvzUH/zSnVfwdSibOgFjLhtDtbKYmkbPbUCq46QZyZCH6kODIMSOgZ8R7rVjoI+tCj3k06MRJMDqsIeoS4A==}
     peerDependencies:
       drizzle-orm: '>=0.23.13'
       zod: '*'
     dependencies:
       drizzle-orm: 0.28.6(@libsql/client@0.3.4)
-      zod: 3.22.3
+      zod: 3.22.4
     dev: false
 
   /duplexer2@0.1.4:
@@ -11335,6 +11335,11 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
+  /nanoid@3.3.7:
+    resolution: {integrity: sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==}
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+
   /nanoid@5.0.1:
     resolution: {integrity: sha512-vWeVtV5Cw68aML/QaZvqN/3QQXc6fBfIieAlu05m7FZW2Dgb+3f0xc0TTxuJW+7u30t7iSDTV/j3kVI0oJqIfQ==}
     engines: {node: ^18 || >=20}
@@ -12162,13 +12167,13 @@ packages:
       resolve: 1.22.8
     dev: false
 
-  /postcss-import@15.1.0(postcss@8.4.31):
+  /postcss-import@15.1.0(postcss@8.4.32):
     resolution: {integrity: sha512-hpr+J05B2FVYUAXHeK1YyI267J/dDDhMU6B6civm8hSY1jYJnBXxzKDKDswzJmtLHryrjhnDjqqp/49t8FALew==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
       postcss: ^8.0.0
     dependencies:
-      postcss: 8.4.31
+      postcss: 8.4.32
       postcss-value-parser: 4.2.0
       read-cache: 1.0.0
       resolve: 1.22.8
@@ -12183,14 +12188,14 @@ packages:
       postcss: 8.4.21
     dev: false
 
-  /postcss-js@4.0.1(postcss@8.4.31):
+  /postcss-js@4.0.1(postcss@8.4.32):
     resolution: {integrity: sha512-dDLF8pEO191hJMtlHFPRa8xsizHaM82MLfNkUHdUtVEV3tgTp5oj+8qbEqYM57SLfc74KSbw//4SeJma2LRVIw==}
     engines: {node: ^12 || ^14 || >= 16}
     peerDependencies:
       postcss: ^8.4.21
     dependencies:
       camelcase-css: 2.0.1
-      postcss: 8.4.31
+      postcss: 8.4.32
 
   /postcss-load-config@3.1.4(postcss@8.4.21):
     resolution: {integrity: sha512-6DiM4E7v4coTE4uzA8U//WhtPwyhiim3eyjEMFCnUpzbrkK9wJHgKDT2mR+HbtSrd/NubVaYTOpSpjUl8NQeRg==}
@@ -12209,7 +12214,7 @@ packages:
       yaml: 1.10.2
     dev: false
 
-  /postcss-load-config@4.0.1(postcss@8.4.31):
+  /postcss-load-config@4.0.1(postcss@8.4.32):
     resolution: {integrity: sha512-vEJIc8RdiBRu3oRAI0ymerOn+7rPuMvRXslTvZUKZonDHFIczxztIyJ1urxM1x9JXEikvpWWTUUqal5j/8QgvA==}
     engines: {node: '>= 14'}
     peerDependencies:
@@ -12222,7 +12227,7 @@ packages:
         optional: true
     dependencies:
       lilconfig: 2.1.0
-      postcss: 8.4.31
+      postcss: 8.4.32
       yaml: 2.3.2
 
   /postcss-nested@6.0.0(postcss@8.4.21):
@@ -12235,13 +12240,13 @@ packages:
       postcss-selector-parser: 6.0.13
     dev: false
 
-  /postcss-nested@6.0.1(postcss@8.4.31):
+  /postcss-nested@6.0.1(postcss@8.4.32):
     resolution: {integrity: sha512-mEp4xPMi5bSWiMbsgoPfcP74lsWLHkQbZc3sY+jWYd65CUwXrUaTp0fmNpa01ZcETKlIgUdFN/MpS2xZtqL9dQ==}
     engines: {node: '>=12.0'}
     peerDependencies:
       postcss: ^8.2.14
     dependencies:
-      postcss: 8.4.31
+      postcss: 8.4.32
       postcss-selector-parser: 6.0.13
 
   /postcss-selector-parser@6.0.10:
@@ -12274,16 +12279,16 @@ packages:
     resolution: {integrity: sha512-tP7u/Sn/dVxK2NnruI4H9BG+x+Wxz6oeZ1cJ8P6G/PZY0IKk4k/63TDsQf2kQq3+qoJeLm2kIBUNlZe3zgb4Zg==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
-      nanoid: 3.3.6
+      nanoid: 3.3.7
       picocolors: 1.0.0
       source-map-js: 1.0.2
     dev: false
 
-  /postcss@8.4.31:
-    resolution: {integrity: sha512-PS08Iboia9mts/2ygV3eLpY5ghnUcfLV/EXTOW1E2qYxJKGGBUtNjN76FYHnMs36RmARn41bC0AZmn+rR0OVpQ==}
+  /postcss@8.4.32:
+    resolution: {integrity: sha512-D/kj5JNu6oo2EIy+XL/26JEDTlIbB8hw85G8StOE6L74RQAVVP5rej6wxCNqyMbR4RkPfqvezVbPw81Ngd6Kcw==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
-      nanoid: 3.3.6
+      nanoid: 3.3.7
       picocolors: 1.0.0
       source-map-js: 1.0.2
 
@@ -14032,11 +14037,11 @@ packages:
       normalize-path: 3.0.0
       object-hash: 3.0.0
       picocolors: 1.0.0
-      postcss: 8.4.31
-      postcss-import: 15.1.0(postcss@8.4.31)
-      postcss-js: 4.0.1(postcss@8.4.31)
-      postcss-load-config: 4.0.1(postcss@8.4.31)
-      postcss-nested: 6.0.1(postcss@8.4.31)
+      postcss: 8.4.32
+      postcss-import: 15.1.0(postcss@8.4.32)
+      postcss-js: 4.0.1(postcss@8.4.32)
+      postcss-load-config: 4.0.1(postcss@8.4.32)
+      postcss-nested: 6.0.1(postcss@8.4.32)
       postcss-selector-parser: 6.0.13
       postcss-value-parser: 4.2.0
       resolve: 1.22.6
@@ -14358,7 +14363,7 @@ packages:
       execa: 5.1.1
       globby: 11.1.0
       joycon: 3.1.1
-      postcss-load-config: 4.0.1(postcss@8.4.31)
+      postcss-load-config: 4.0.1(postcss@8.4.32)
       resolve-from: 5.0.0
       rollup: 3.29.4
       source-map: 0.8.0-beta.0
@@ -15030,7 +15035,7 @@ packages:
     dependencies:
       '@types/node': 20.8.0
       esbuild: 0.18.20
-      postcss: 8.4.31
+      postcss: 8.4.32
       rollup: 3.29.4
     optionalDependencies:
       fsevents: 2.3.3
@@ -15415,6 +15420,10 @@ packages:
 
   /zod@3.22.3:
     resolution: {integrity: sha512-EjIevzuJRiRPbVH4mGc8nApb/lVLKVpmUhAaR5R5doKGfAnGJ6Gr3CViAVjP+4FWSxCsybeWQdcgCtbX+7oZug==}
+    dev: false
+
+  /zod@3.22.4:
+    resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
 
   /zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
